@@ -3,8 +3,7 @@ import Button from '@mui/material/Button';
 
 const ResumeDownloadButton = () => {
   const handleDownload = () => {
-    // Replace 'https://example.com/path-to-your-resume.pdf' with the actual absolute URL of your PDF resume
-    const resumeUrl = '/Marcell Gibbs.pdf'; // Update the URL accordingly
+    const resumeUrl = '/Marcell Gibbs.pdf'; 
     window.open(resumeUrl, '_blank', 'noopener,noreferrer');
   };
 
