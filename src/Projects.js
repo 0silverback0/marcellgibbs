@@ -14,6 +14,13 @@ const projectsData = [
     link: 'https://celebrated-souffle-cf307c.netlify.app',
     image: '/barbershop.png',
   },
+  {
+    title: 'DividendApp',
+    description: 'A simple dividend api with a react frontend',
+    technologies: ['Django', 'Python', 'React'],
+    link: 'https://adorable-salmiakki-eef33b.netlify.app/',
+    image: '/DividendApp.PNG'
+  },
   // Add more projects here in the same format
 ];
 
@@ -27,7 +34,7 @@ const Projects = () => {
         {projectsData.map((project, index) => (
           <Grid item xs={12} sm={6} md={4} key={index}>
             <Card>
-              <img src={project.image} width={'100%'} alt={project.title} />
+              <img src={project.image} width={'100%'} height={'300px'} alt={project.title} />
               <CardContent>
                 <Typography variant="h6">{project.title}</Typography>
                 <Typography variant="body2" color="textSecondary">{project.description}</Typography>
