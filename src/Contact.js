@@ -9,7 +9,6 @@ const Contact = () => {
       <Typography variant="h6">Contact</Typography>
       <Grid container spacing={2}>
         <Grid item xs={12} sm={6}>
-          {/* Use the "mailto" link format for the email */}
           <Typography variant="body1">
             Email: <a href="mailto:fourmarz@yahoo.com">fourmarz@yahoo.com</a>
           </Typography>
