@@ -11,7 +11,7 @@ const projectsData = [
     title: 'West End Barbershop II',
     description: 'A website for a modern barbershop. Includes booking, services, and gallery.',
     technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
-    link: 'westendbarbershop2.com',
+    link: 'https://www.westendbarbershop2.com',
     image: '/barbershop.png',
   },
   {
