@@ -11,7 +11,7 @@ const projectsData = [
     title: 'West End Barbershop II',
     description: 'A website for a modern barbershop. Includes booking, services, and gallery.',
     technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
-    link: 'https://celebrated-souffle-cf307c.netlify.app',
+    link: 'westendbarbershop2.com',
     image: '/barbershop.png',
   },
   {
