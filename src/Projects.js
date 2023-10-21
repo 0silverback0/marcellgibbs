@@ -21,6 +21,13 @@ const projectsData = [
     link: 'https://adorable-salmiakki-eef33b.netlify.app/',
     image: '/DividendApp.PNG'
   },
+  {
+    title: 'Landing Pages',
+    description: 'my journey in maintaining an open-source project that celebrates collaboration and welcomes contributors from around the world. This Hacktoberfest landing page project is a testament to the power of community-driven development. It\'s more than just code; it\'s a vibrant ecosystem of ideas, creativity, and shared passion for open source',
+    technologies: ['HTML', 'CSS', 'Javascript', 'React'],
+    link: 'https://radiant-cucurucho-b049fa.netlify.app/',
+    image: '/landingPage.png'
+  },
   // Add more projects here in the same format
 ];
 
