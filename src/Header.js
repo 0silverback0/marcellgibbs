@@ -8,7 +8,7 @@ const Header = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" component="div">
-          Freelance Web Developer Backend Specialist
+          Freelance Web Developer
         </Typography>
       </Toolbar>
     </AppBar>
