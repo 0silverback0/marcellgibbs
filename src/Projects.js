@@ -15,16 +15,16 @@ const projectsData = [
     image: '/barbershop.png',
   },
   {
-    title: 'DividendApp',
-    description: 'A simple dividend api with a react frontend',
-    technologies: ['Django', 'Python', 'React'],
-    link: 'https://adorable-salmiakki-eef33b.netlify.app/',
-    image: '/DividendApp.PNG'
+    title: 'Exercise Database',
+    description: 'A simple exercise api',
+    technologies: ['Django', 'Python', 'SQLite'],
+    link: 'https://github.com/0silverback0/ExerciseDb',
+    image: '/Fearless.svg'
   },
   {
     title: 'Landing Pages',
-    description: 'my journey in maintaining an open-source project that celebrates collaboration and welcomes contributors from around the world. This Hacktoberfest landing page project is a testament to the power of community-driven development. It\'s more than just code; it\'s a vibrant ecosystem of ideas, creativity, and shared passion for open source',
-    technologies: ['HTML', 'CSS', 'Javascript', 'React'],
+    description: 'My journey in maintaining an open-source project that celebrates collaboration and welcomes contributors from around the world.',
+    technologies: ['HTML', 'CSS', 'Javascript', 'Git', 'React'],
     link: 'https://radiant-cucurucho-b049fa.netlify.app/',
     image: '/landingPage.png'
   },
