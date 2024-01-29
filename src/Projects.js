@@ -28,6 +28,13 @@ const projectsData = [
     link: 'https://radiant-cucurucho-b049fa.netlify.app/',
     image: '/landingPage.png'
   },
+  {
+    title: 'Apex Mind Apex Body',
+    description: 'A Fitness blog for for tips and trick on how to improve your mind and body through exercise and nutrition.',
+    technologies: ['React', 'Django', "SQLite", "Python", "Javascript"],
+    link: 'https://apexmindapexbody.com/',
+    image: '/apex.png'
+  },
   // Add more projects here in the same format
 ];
 
